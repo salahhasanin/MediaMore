@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "antd": "^3.19.3",
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "browserify-fs": "^1.0.0",
     "file-system": "^2.2.2",
     "g2-mobile": "2.1.13",
